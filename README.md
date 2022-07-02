@@ -52,5 +52,5 @@ This folder contains various files:
 
 ## XML Dump
 
-- [XML Dump](./XML Dump/wikiplant_hindi_50.XML): XML Dump of first 50 articles.
-- [XML Dump](./XML Dump/wikiplant_hindi.XML): Full XML Dump of all articles.
+- [XMLDump_50](./XMLDump/wikiplant_hindi_50.XML): XML Dump of first 50 articles.
+- [XMLDump_full](./XMLDump/wikiplant_hindi.XML): Full XML Dump of all articles.
