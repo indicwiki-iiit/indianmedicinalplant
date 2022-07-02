@@ -41,7 +41,7 @@ This folder contains various files:
 - [IUCN_Scrapping](.Code/scrap/IUCN_Scrapping.ipynb) : Scrape Features from iucnredlist.org
 - [Wikiplant_features](.Code/scrap/Wikiplant_features.ipynb) : Data Cleaning & Creating New features from existing ones.
 - [plant_wiki_intro_scrapping](.Code/scrap/plant_wiki_intro_scrapping.ipynb) : Scrape English Wikipedia introduction section
-- [Article XML Generation](.Code/Article XML Generation.ipynb) : XML Generation and Render Code
+- [Article XML Generation](.Code/Article_XML_Generation.ipynb) : XML Generation and Render Code
 - [Translate_Transliterate](.Code/Wikiplant_translate.ipynb) : Translate & Transliterate Code
 
 
